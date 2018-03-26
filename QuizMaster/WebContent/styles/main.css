@@ -1,0 +1,45 @@
+body{
+	
+	background-color: #f0f0f2;
+	margin: 0;
+	padding: 0;
+	font-family: "open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div{
+	width: 600px;
+	height:300px;
+	margin: 10em auto;
+	paddding: 50px;
+	background-color: #fff;
+	border-radius: 1em;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button{
+	width: 200px;
+	background-color: #757575;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.edittext{
+	width: 140px;
+	padding: 12px 30px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    text-transform: capitalize;
+}
+
+.radio{
+	margin: 20px;
+}

@@ -1,0 +1,16 @@
+.header{
+background-color: #00897B;
+color: white;
+padding: 20px;
+margin: 0;
+}
+
+.footer{
+background-color: #00897B;
+color: white;
+padding: 20px;
+margin: 0;
+bottom: 0;
+position: fixed;
+width: 100%;
+}
